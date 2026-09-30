@@ -1,0 +1,6 @@
+@SkyLine_PL_HostAddress = http://localhost:5104
+
+GET {{SkyLine_PL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
